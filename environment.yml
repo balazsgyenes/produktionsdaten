@@ -8,6 +8,4 @@ dependencies:
   - python=3.9
   - numpy
   - pandas
-  - pip
-  - pip:
-      openpyxl
+  - openpyxl
