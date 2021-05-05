@@ -1,0 +1,13 @@
+name: produktionsdaten
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - rope
+  - pylint
+  - python=3.9
+  - numpy
+  - pandas
+  - pip
+  - pip:
+      openpyxl
